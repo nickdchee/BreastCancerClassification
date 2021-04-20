@@ -8,4 +8,6 @@ In this analysis, we will examine a few classification techniques to diagnostica
 - Logistic Regression
 - Support Vector Machines (SVM)
 
+[Link to notebook in nbviewer](https://nbviewer.jupyter.org/github/nickdchee/BreastCancerClassification/blob/main/cancer-detection.ipynb)
+
 *This analysis was originally done for a machine learning course [Winter 2020] I took in university, however I've added additional snippets to enrich the analysis.*
